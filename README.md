@@ -2,6 +2,18 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
+const eliVillalejos = {
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  pronouns: ["she", "her"],
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
+  Tailwind CSS, Material UI],
+  askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
+  challenge: "I am honing my React skills and picking up TypeScript",
+  funFacts: ['I have 3+ years of remote work experience with devs 
+  from all over the world', 
+  'my tiny chihuahua dog is ready to woof at the right offer']
+}
+
 </p>
 <hr><h1 align="center">Hey there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ghislain Mitahi</h1><h3 align="center">Web Developer</h3><p align="center"><a href="https://www.linkedin.com/in/ghislain-mitahi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a><a href="https://www.linkedin.com/in/ghislain-mitahi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash_chowrasia" height="30" width="40" /></a><a href = "mailto: ghislainmiatahi@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a></p>
 
