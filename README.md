@@ -23,7 +23,6 @@ about new challenges to
 - 👯 I’m looking to collaborate and contributing to open source projects😄.
 - 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm.
 - 💬 Ask me about **Frontend-Web design, and Networking**✨️..
-- 📫 How to reach me: `ghislainmitahi@gmail.com`.
 - ⚡ Fun fact: I love listening to music 🎧 , I like dancing :dancer: , ... 🎵, I like celebrating with others after a long day's work, and I also love                      personal and collective retreats.
 
 <br>
