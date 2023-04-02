@@ -4,11 +4,11 @@
 
 
 </p>
-<hr><h1 align="center">Hey there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ghislain Mitahi</h1><h3 align="center">Web Developer</h3><p align="center"><a href="https://www.linkedin.com/in/ghislain-mitahi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a><a href="https://www.linkedin.com/in/ghislain-mitahi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash_chowrasia" height="30" width="40" /></a><a href = "mailto: ghislainmiatahi@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a></p>
+<hr><h1 align="center">Hey there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ghislain Mitahi</h1><h3 align="center">Web Developer</h3>
 
 
 <p align="center">
-A student at <a href="https://microverse.org"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/><a/> <br>
+A mentor at <a href="https://microverse.org"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/><a/> <br>
 <em>I'm <b>Passionate</b>
 about new challenges to
 <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">. Looking to collaborate with 👯 other <b> Web Developers</b> and
@@ -18,8 +18,7 @@ about new challenges to
 
 <summary><h2>What I currently do</h2></summary>
 
-- 🔭 I’m currently styding at ![](https://img.shields.io/badge/Microverse-blueviolet) online school for software developers.
-- 🌱 I’m currently learning **JavaScript, ES6, (APIs)** and some high level programming skills🌍️.
+- 🌱 I’m currently learning **Ruby on Rails** and some high level programming skills🌍️.
 - 👯 I’m looking to collaborate and contributing to open source projects😄.
 - 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm.
 - 💬 Ask me about **Frontend-Web design, and Networking**✨️..
