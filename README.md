@@ -23,8 +23,8 @@ about new challenges to
 - 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm.
 - 💬 Ask me about **Frontend-Web design, and Networking**✨️..
 - ⚡ Fun fact: I love listening to music 🎧 , I like dancing :dancer: , ... 🎵, I like celebrating with others after a long day's work, and I also love                      personal and collective retreats.
-- 🚀 curently Contributing on <a href="acho-turbo-fr-website.vercel.app/)">ACHO APP</a> It's a safe and sustainable payment and investment solution for all public servants and employees worldwide.
-- 🚀 Making the update of Nova Technologies web site <a href="nova.cd">nova.cd</a>
+- 🚀 curently Contributing on <a href="https://acho-turbo-fr-website.vercel.app/">ACHO APP</a> It's a safe and sustainable payment and investment solution for all public servants and employees worldwide.
+- 🚀 Making the update of Nova Technologies web site <a href="https://nova.cd">nova.cd</a>
 <br>
 </p>
 <br>
