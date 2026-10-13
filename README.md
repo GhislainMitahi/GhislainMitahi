@@ -1,71 +1,38 @@
-<p align="center">
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
-
-</p>
-<hr><h1 align="center">Hey there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ghislain Mitahi</h1><h3 align="center">Web Developer</h3>
-
+<h1 align="center">Hi, I'm Ghislain Mitahi 👋</h1>
 
 <p align="center">
-A mentor at <a href="https://microverse.org"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/><a/> <br>
-<em>I'm <b>Passionate</b>
-about new challenges to
-<b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">. Looking to collaborate with 👯 other <b> Web Developers</b> and
-<b>Excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-</em>
-<br>
-
-<summary><h2>What I currently do</h2></summary>
-
-- 🌱 I’m currently learning **Ruby on Rails** and some high level programming skills🌍️.
-- 👯 I’m looking to collaborate and contributing to open source projects😄.
-- 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm.
-- 💬 Ask me about **Frontend-Web design, and Networking**✨️..
-- ⚡ Fun fact: I love listening to music 🎧 , I like dancing :dancer: , ... 🎵, I like celebrating with others after a long day's work, and I also love                      personal and collective retreats.
-- 🚀 curently Contributing on <a href="https://acho-turbo-fr-website.vercel.app/">ACHO APP</a> It's a safe and sustainable payment and investment solution for all public servants and employees worldwide.
-- 🚀 Making the update of Nova Technologies web site <a href="https://nova.cd">nova.cd</a>
-<br>
-</p>
-<br>
-
-<hr>
-
-<p align="center">&nbsp;
-
-| Activities | Languages |
-| ---------- | ----------- |
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=GhislainMitahi&show_icons=true&theme=tokyonight" alt="akash-chowrasia" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GhislainMitahi&show_icons=true&theme=tokyonight&layout=compact" alt="akash-chowrasia" />|
+  <b>CTO @ <a href="https://keeplas.com">Keeplas</a> · Full-Stack Product Engineer</b><br/>
+  I design, build and scale secure SaaS and web platforms, from idea to production.
 </p>
 
-<hr>
+<p align="center">
+  <a href="https://ghislainmitahi.com"><img src="https://img.shields.io/badge/Website-ghislainmitahi.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/ghislain-mitahi"><img src="https://img.shields.io/badge/LinkedIn-ghislain--mitahi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/GMitahi"><img src="https://img.shields.io/badge/X-@GMitahi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:ghislainmitahi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-💻 **Languages and Tools:** 🛠️<br>
+---
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM)
-![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino&logoColor=blue)
+### 🚀 What I'm working on
 
+- 🔐 **[Keeplas](https://keeplas.com)** (CTO): an open-source life continuity platform. A zero-knowledge vault where people organise their documents, accounts, memories and instructions, so the people they trust can access what matters if something happens to them. [Source code](https://github.com/Keeplas/keeplas)
+- 🤖 **[StayUp AI](https://stayup.ai)**: an AI intelligence hub that brings benchmarks and AI news together in one place.
+- 🏢 **Full-Stack Engineer at Altech Group**, working on internal systems.
+- 🤝 **Product partner for founders and businesses**: SaaS platforms, web apps and high-performing websites. See [ghislainmitahi.com](https://ghislainmitahi.com).
 
-### Connect with me:
+### 🛠️ Tech stack
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/GMitahi) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ghislain-mitahi/)
-[![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](ghislainmitahi@gmail.com) [![Send me email](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/GhislainMitahi)
-<!-- https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white -->
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,tailwind,postgres,mongodb,graphql,docker,python,wordpress,git,vercel&perline=8" alt="Tech stack"/>
+</p>
 
-<hr>
-<br>
-🤓 **Interested:** <br>
+### 📍 Background
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)# <br>Ghislain Mitahi</br>
-Web Link
-img.shields.io
+- **Lead Software Engineer** at Africa Quantitative Sciences: data platforms for public health research.
+- **Founder** of OneDev Support: web and e-commerce development for businesses.
+- **Programming Mentor** at Microverse.
+
+### 💬 Let's work together
+
+Have a product to build or scale? Reach out through [ghislainmitahi.com](https://ghislainmitahi.com) or [LinkedIn](https://www.linkedin.com/in/ghislain-mitahi).
