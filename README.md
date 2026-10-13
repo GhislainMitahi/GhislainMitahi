@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Ghislain Mitahi 👋</h1>
 
 <p align="center">
+  <a href="https://ghislainmitahi.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=CTO+%40+Keeplas;Full-Stack+Product+Engineer;SaaS+%C2%B7+Next.js+%C2%B7+Nest.js+%C2%B7+React;From+idea+to+production" alt="CTO @ Keeplas, Full-Stack Product Engineer"/></a>
+</p>
+
+<p align="center">
   <b>CTO @ <a href="https://keeplas.com">Keeplas</a> · Full-Stack Product Engineer</b><br/>
   I design, build and scale secure SaaS and web platforms, from idea to production.
 </p>
