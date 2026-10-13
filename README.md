@@ -9,7 +9,7 @@
   <a href="https://ghislainmitahi.com"><img src="https://img.shields.io/badge/Website-ghislainmitahi.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/ghislain-mitahi"><img src="https://img.shields.io/badge/LinkedIn-ghislain--mitahi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/GMitahi"><img src="https://img.shields.io/badge/X-@GMitahi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:ghislainmitahi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mitahighislain@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -35,4 +35,4 @@
 
 ### 💬 Let's work together
 
-Have a product to build or scale? Reach out through [ghislainmitahi.com](https://ghislainmitahi.com) or [LinkedIn](https://www.linkedin.com/in/ghislain-mitahi).
+Have a product to build or scale? Reach out at [mitahighislain@gmail.com](mailto:mitahighislain@gmail.com), through [ghislainmitahi.com](https://ghislainmitahi.com) or on [LinkedIn](https://www.linkedin.com/in/ghislain-mitahi).
